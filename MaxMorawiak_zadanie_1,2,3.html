@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+      <html lang="pl-PL">
+      <html>
+              <head>
+                    <meta charset="utf-8">
+                   <title>  </title>
+              </head>
+               <body>
+            <p align="right"> <font color="blue" size="7" face="Arial"> Max </font> </p> <br>
+            <p align="right"> <font color="blue" size="6" face="Arial"> Max </font> </p> <br>
+            <p align="right"> <font color="blue" size="5" face="Arial"> Max </font> </p> <br>
+            <p align="right"> <font color="blue" size="4" face="Arial"> Max </font> </p> <br>
+            <p align="right"> <font color="blue" size="3" face="Arial"> Max </font> </p> <br>
+            <p align="right"> <font color="blue" size="2" face="Arial"> Max </font> </p> <br>
+            <p align="right"> <font color="blue" size="1" face="Arial"> Max </font> </p> <br>
+<h1> Morawiak </h1><br>
+<h2> Morawiak </h2><br>
+<h3> Morawiak </h3><br>
+<h4> Morawiak </h4><br>
+<h5> Morawiak </h5><br>
+<h6> Morawiak </h6><br>
+<h1>:) szczęście</h1><br>
+<h1>:D uśmiech</h1><br>
+<h1>:P pokazanie języka</h1><br>
+<p align="left"><b>Adres:80-300</b> <i>Szczeciqn</i> <u>Szczecinska</u> <strike>200/15</strike></p> <br>
+<p align="right"><font size=14 face=Arial color=orange> Ulubiony aktor: Weronika Sowa </font </p> <br>
+<p align="center"><font size=7 face=Arial color=blue> Ulubiony zespół muzyczny:<b>ABBA</b> </font> </p> <br>
+<p algin="center"><font size=11 face=Arial color=pink> Data urodzenia: 04.Maj.2005 </font> </p> <br>
+<p algin="left"><font size=10 face=Arial color=black> <sub>H<sub>2<sup>SO<sub>4 </font> </p> <br>
+<p algin="left"><font size=10 face=Arial color=black> <sub>x<sup>*<sub>x=x<sup>2 </font> </p> <br>
+              </body>
+			  <meta name="Keywords" content="działa,Sprawdź,mówi,największy" />
+<body bgcolor="gray"<body>
+<HR SIZE=20 WIDTH=1500 ALIGN="left" COLOR=purple>
+<h1 ALIGN=right >Dowcipy o Jasiu</h1>
+<FIELDSET>
+<LEGEND> żart o Jasiu </LEGEND>
+Jaki jeat największy las Na świecie ?<br>
+
+- Jasiu odpowiada Las Vegas<br>
+
+</FIELDSET>
+<HR SIZE=15 WIDTH=300 ALIGN="left" COLOR=black>
+<h1 ALIGN=center >Dowcipy o blondynce</h1>
+<FIELDSET>
+<LEGEND> żart o blondynce </LEGEND>
+Czemu blondynka kuca w sklepie?<br>
+Bo szuka niskich cen.<br>
+</FIELDSET>
+<HR SIZE=10 WIDTH=5000 ALIGN="left" COLOR=blue>
+<h1 ALIGN=left >Dowcipy o samochodach</h1>
+<FIELDSET>
+<LEGEND> żart o samochodzie </LEGEND>
+. Franek! Sprawdź czy w naszym radiowozie działa lewy kierunkowskaz. - mówi milicjant do kolegi.<br>
+- działa, nie działa, działa, nie działa.<br>
+</FIELDSET>
+
+<b>nazwisko ucznia</b>.&nbsp; <b>imie ucznia</b><br>
+Morawiak&nbsp;                Maksimilian
+
+
+
+
+
+
+<!-Morawiak Maksimilian ZSE 2K ->  
+      </html>
+	  
+	  <h1><b>wyliczenie</b></h1>
+	  
+	  <ul type=circle>
+	  
+	  <LI><b>program</b>
+	  <LI><i>komputer</i>
+	  <LI><u>mysz</u>
+	  
+	  <LI><strike>klawiatura</strike>
+	  <LI><sup>monitor</sup>
+	  <LI><sub>strona</sub>
+	  
+	  <LI>windows</LI><br>
+	  <LI><nobr>panel</nobr></LI>
+	  <LI>c++&nbsp;java</LI>
+	  <h2><b>numerowanie</b></h2>
